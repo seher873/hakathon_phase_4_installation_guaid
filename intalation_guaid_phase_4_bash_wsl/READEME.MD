@@ -1,6 +1,6 @@
 🚀 Phase-4 Tooling Installation & Verification (WSL / Linux)
 
-This document verifies all required CLI tools for Phase-5 (Kubernetes, Helm, Minikube, kubectl-ai).
+This document verifies all required CLI tools for Phase-4 (Kubernetes, Helm, Minikube, kubectl-ai).
 
 🧰 Required Tools
 
@@ -100,6 +100,8 @@ Docker images (from Phase-4)
 Kubernetes manifests / Helm charts
 
 Minikube as local cluster
-BY
 
+
+
+BY
  💙SEHER KHAN
