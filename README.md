@@ -29,10 +29,7 @@ Follow this guide to install all required tools on **Windows**.
 
 ## 🛠️ Phase IV Installer Script
 
-### Step 1: Like And Subscribe My Channel
 
-
-# CodeVerse Soban
 
 
 ### Step 2: Step By Step Installation All Packages
